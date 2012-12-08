@@ -1,7 +1,8 @@
 SphereRendererToolbox
 =====================
 
-SphereRendererToolbox is a Matlab toolbox for rendering spheres under point lights. For more in formation, please see the SphereRendererToolbox wiki: https://github.com/DavidBrainard/SphereRendererToolbox/wiki
+SphereRendererToolbox is a Matlab toolbox for rendering spheres under point lights. For more information, please see the SphereRendererToolbox wiki: https://github.com/DavidBrainard/SphereRendererToolbox/wiki
+
 SphereRendererToolbox Copyright (c) 2012 The SphereRendererToolbox Team.
 SphereRendererToolbox is released under the MIT License.
 Please see LICENSE.txt for details.
