@@ -69,7 +69,7 @@ imwrite(imageRGB,'sphereRendererimageRGBtoneMapped.jpg');
 
 %print end
 display(['Finished ward render at: ' datestr(now)]);
-display(['Will display in figure window ' num2str(gcf) '.']);
+display('Will display in figure window');
 % displayStatus(hObject,handles,'done.');
 toc;
 display(' ');
